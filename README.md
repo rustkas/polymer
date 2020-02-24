@@ -10,7 +10,7 @@ Polymer is a web components material design theme for [Hugo](http://gohugo.io/).
 - Google Analytics (optional)
 - Pagination
 - Disqus (optional)
-- Twitter, Facebook, GitHub, Google+, LinkedIn links (optional)
+- Twitter, Facebook, GitHub, LinkedIn links (optional)
 - Tags
 - Categories
 - Cover, Photo, Profile image (optional)
@@ -52,7 +52,6 @@ copyright = "© 2015 Copyright Text"
   twitter = "Your Twitter Name" # optional
   github = "Your Github Name" # optional
   facebook = "Your facebook Name" # optional
-  gplus = "Your Google+ Name" # optional
   linkedin = "Your linkedin Name" # optional
   googleAnalyticsUserID = "Your Analytics User Id" # optional
 
